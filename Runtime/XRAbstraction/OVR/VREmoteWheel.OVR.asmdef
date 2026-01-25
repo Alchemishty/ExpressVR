@@ -1,0 +1,25 @@
+{
+    "name": "VREmoteWheel.OVR",
+    "rootNamespace": "VREmoteWheel",
+    "references": [
+        "VREmoteWheel",
+        "Oculus.VR"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "OCULUS_XR_SDK"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.meta.xr.sdk.core",
+            "expression": "",
+            "define": "OCULUS_XR_SDK"
+        }
+    ],
+    "noEngineReferences": false
+}
